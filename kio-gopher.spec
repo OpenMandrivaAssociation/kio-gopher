@@ -3,12 +3,12 @@
 Summary: 	kio-gopher
 Name: 		kio-gopher
 Version: 	0.1.3
-Release: 	%mkrel 1
+Release: 	%mkrel 2
 Source:		kio_gopher-%{version}-kde%{kde_version}.tar.bz2
 License: 	GPLv2+
 Group: 		Graphical desktop/KDE
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
-URL: 		http://kde-apps.org/content/show.php?content=86516
+URL: 		http://kgopher.berlios.de/
 BuildRequires:  kdelibs4-devel
 
 %description
