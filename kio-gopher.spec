@@ -1,9 +1,9 @@
-%define kde_version     4.3.3
+%define kde_version     4.4.0
 
 Summary: 	kio-gopher
 Name: 		kio-gopher
 Version: 	0.1.3
-Release: 	%mkrel 3
+Release: 	%mkrel 4
 Source:		kio_gopher-%{version}-kde%{kde_version}.tar.bz2
 License: 	GPLv2+
 Group: 		Graphical desktop/KDE
