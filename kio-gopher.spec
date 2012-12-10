@@ -53,3 +53,26 @@ rm -rf %{buildroot}
 rm -rf $RPM_BUILD_ROOT
 
 
+
+
+%changelog
+* Mon Dec 06 2010 Oden Eriksson <oeriksson@mandriva.com> 0.1.3-5mdv2011.0
++ Revision: 612611
+- the mass rebuild of 2010.1 packages
+
+* Sun Feb 21 2010 Luis Daniel Lucio Quiroz <dlucio@mandriva.org> 0.1.3-4mdv2010.1
++ Revision: 508861
+- Using kde 4.4 tarball
+
+* Thu Nov 12 2009 Nicolas Lécureuil <nlecureuil@mandriva.com> 0.1.3-3mdv2010.1
++ Revision: 465241
+- Rebuild against new Qt
+
+* Sat Nov 07 2009 Luis Daniel Lucio Quiroz <dlucio@mandriva.org> 0.1.3-2mdv2010.1
++ Revision: 462412
+- First import
+- import kio-gopher
+
+
+* Sun Nov 07 2009 Daniel Lucio <dlucio@okay.com.mx> 0.1.3-1mdv2010.0
+- Fist intent
