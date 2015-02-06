@@ -3,7 +3,7 @@
 Summary: 	kio-gopher
 Name: 		kio-gopher
 Version: 	0.1.3
-Release: 	%mkrel 5
+Release: 	6
 Source:		kio_gopher-%{version}-kde%{kde_version}.tar.bz2
 License: 	GPLv2+
 Group: 		Graphical desktop/KDE
