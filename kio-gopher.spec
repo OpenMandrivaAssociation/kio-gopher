@@ -8,7 +8,7 @@ Source:		kio_gopher-%{version}-kde%{kde_version}.tar.bz2
 License: 	GPLv2+
 Group: 		Graphical desktop/KDE
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
-URL: 		http://kgopher.berlios.de/
+URL: 		https://kgopher.berlios.de/
 BuildRequires:  kdelibs4-devel
 
 %description
