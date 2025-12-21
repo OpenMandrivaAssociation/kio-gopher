@@ -9,6 +9,7 @@ License: 	GPLv2+
 Group: 		Graphical desktop/KDE
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 URL: 		https://kgopher.berlios.de/
+BuildRequires:	make
 BuildRequires:  kdelibs4-devel
 
 %description
